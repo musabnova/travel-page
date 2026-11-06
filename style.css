@@ -1,10 +1,11 @@
 body {
   font-family: Arial, sans-serif;
-  margin: 40px;
+  margin: 50px;
+  background-color: #93366b;
 }
 
 h1 {
-  color: rgb(95, 125, 110);
+  color: rgb(140, 85, 216);
 }
 
 /* ADD YOUR STYLES BELOW THIS LINE */
